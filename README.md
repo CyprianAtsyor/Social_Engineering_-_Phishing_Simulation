@@ -106,6 +106,11 @@ Share latest phishing tactics (e.g., QR code phishing).
 
 
 ---
+## 🎥 Demo Video  
+Check out my project demo on LinkedIn:
+[LinkedIn Video](https://www.linkedin.com/posts/ing-cyprian-atsyor-27816421b_cybersecurity-phishingawareness-socialengineering-activity-7341445509124972544-OoH7?utm_source=share&utm_medium=member_desktop&rcm=ACoAADdfvnwBt5lYydkpi8nNtj7ibLzTI9eBV1Y)
+
+---
 
 ## ⚠️ LEGAL & ETHICAL DISCLAIMER
 This phishing simulation is strictly for educational and security awareness training purposes.
