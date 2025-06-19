@@ -1,6 +1,29 @@
 # Social_Engineering_-_Phishing_Simulation
 
-# Project Tittle: SOCIAL ENGINEERING AND PHISHING SIMULATION
+# Project Tittle: SOCIAL ENGINEERING AND PHISHING SIMULATION  
+
+---
+Sections to include:
+
+- Objective of the simulation
+
+- Tools used (SET on Kali)
+
+- Methodology (Phishing via cloned site)
+
+- Results (number of users clicked, submitted data)
+
+- Screenshots (SET output, page clone, logs)
+
+- Recommendations for:
+
+   Security awareness training
+
+   Email filtering
+
+   Reporting suspicious emails
+
+---
 
 ## 🎯 Objective
 Simulate phishing attacks using SET(Social Engineering ToolKit) to evaluate user awareness and recommend security training improvements.
@@ -109,6 +132,14 @@ Share latest phishing tactics (e.g., QR code phishing).
 ## 🎥 Demo Video  
 Check out my project demo on LinkedIn:
 [LinkedIn Video](https://www.linkedin.com/posts/ing-cyprian-atsyor-27816421b_cybersecurity-phishingawareness-socialengineering-activity-7341445509124972544-OoH7?utm_source=share&utm_medium=member_desktop&rcm=ACoAADdfvnwBt5lYydkpi8nNtj7ibLzTI9eBV1Y)
+
+---
+
+🔑 Key Takeaway: Always Authenticate Before You Click.
+✅ Hover over links to see where they really go
+✅ Double-check sender emails for suspicious domains
+✅ Never enter credentials unless you're 100% sure the site is legit
+✅ When in doubt, report the email to IT/Security
 
 ---
 
