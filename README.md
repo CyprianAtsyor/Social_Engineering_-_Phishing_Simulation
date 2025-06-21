@@ -54,7 +54,7 @@ Smishing: SMS-based phishing attacks.
 
 
 ### Phase 1: Setup & Planning
-We Update Kali using this command `sudo apt update && sudo apt install set`
+We Update Kali using this command `sudo apt update && sudo apt install set` or `sudo apt update && sudo apt upgrade -y`
 
 ![Update and upgrade Kali](sudoupdate.png)
 
@@ -65,6 +65,9 @@ we just run this command `sudo setoolkit`
 
 enter password
 
+![SET](set.png)
+
+
 Navigate 
 - Social-Engineering Attack
 - Website Attack Vectors
@@ -74,17 +77,37 @@ Navigate
   After the above steps, we are suppose to design a phishing campains with email templates to lure the user but since
   this is just for studies purpose, i am not going to create that, but i will display what the user sees once they click the link given in the sent email.
 
+Last step is to if you want to clone a site or use some default web templates that SET already has.
+
+I am going to use the default web templates
+
+I am choosing the X(Twitter) template
+
+![web Templates](template.png)
 
 SET is going to ask for our IP. Your check the IP of your Kali by using this command `ifconfig` or youll see it before the **`":"`**.
 
-Press enter. Your
+Press enter. 
 
 once we enter our IP, we are ready to monitor and wait for the result when the user opens it.
 
-
 ---
 
-In this case i am going to pretend to be the user. You can do this by entering your IP(mine:10.0.2.**) in a browser (firefox or chrome) and press enter.
+Since i am not phishing anyone now, i will just display what the user will see they click the drafted email template.
+
+You can do this process by just typing your IP address (10.0.2.***) in your browser. 
+
+![Twitter](twitter.png)
+
+
+Once they enter their credentials(username and password), we will be able to see it.
+
+Example: My user login credentials where username: syprian and password:ivebeenhacked
+
+![Hacked](hacked.png)
+
+
+---
 
 ---
 ## 🛡️ Prevention & Mitigation Strategies
