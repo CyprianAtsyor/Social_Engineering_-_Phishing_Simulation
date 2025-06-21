@@ -11,8 +11,6 @@ Sections to include:
 
 - Methodology (Phishing via cloned site)
 
-- Results (number of users clicked, submitted data)
-
 - Screenshots (SET output, page clone, logs)
 
 - Recommendations for:
@@ -57,6 +55,9 @@ Smishing: SMS-based phishing attacks.
 
 ### Phase 1: Setup & Planning
 We Update Kali using this command `sudo apt update && sudo apt install set`
+
+![Update and upgrade Kali](sudoupdate.png)
+
 
 SET (Social Engineering Toolkit) is already installed on Kali, to active or launch it, 
 
